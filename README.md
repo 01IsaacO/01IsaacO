@@ -1,4 +1,4 @@
-# olá, eu sou Isaac Oliveira!![image](https://user-images.githubusercontent.com/105445303/178842425-49a8bfc1-bad9-4237-8ab1-eabb51739120.png)
+# Olá, sou Isaac Oliveira!![image](https://user-images.githubusercontent.com/105445303/178842425-49a8bfc1-bad9-4237-8ab1-eabb51739120.png)
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://isaactpoliveira@gmail.com)
